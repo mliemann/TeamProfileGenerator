@@ -1,5 +1,5 @@
 {
-  "name": "wordguess",
+  "name": "Team Profile Generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "watch": "nodemon index",
     "test": "jest"
   },
-  "author": "",
+  "author": "Marlon Liemann",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
