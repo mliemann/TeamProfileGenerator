@@ -10,7 +10,7 @@ describe('Intern', () => {
         expect(internTest.email).toEqual(expect.stringContaining('@'))
     })
 
-    it('has an id that is a num', () => {
+    it('has an id that is a number', () => {
         expect(internTest.id).toEqual(expect.any(Number))
     })
 
